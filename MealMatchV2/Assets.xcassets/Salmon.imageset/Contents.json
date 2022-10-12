@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Cajun_Salmon_Meal_Prep-6_372748082_652473162-1-scaled-e1579793185228.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
